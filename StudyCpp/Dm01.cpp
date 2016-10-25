@@ -1,15 +1,15 @@
 //#include <iostream>
 //
 //using namespace std;
-
-// ----- 第一个例子 ------------
+//
+////---- - 第一个例子------------
 //int main()
 //{
 //	cout << "hello world !!" << endl;
 //	system("pause");
 //}
-
-// -------- C++ 对 const 的加强 -------
+//
+////--------C++ 对 const 的加强-------
 
 //int main()
 //{

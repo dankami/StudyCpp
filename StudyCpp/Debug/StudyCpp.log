@@ -1,21 +1,10 @@
-﻿生成启动时间为 2016/10/8 22:44:36。
-     1>项目“C:\Users\xuan\Documents\GitHub\StudyCpp\StudyCpp\StudyCpp.vcxproj”在节点 2 上(Rebuild 个目标)。
+﻿生成启动时间为 2017/1/11 19:56:41。
+     1>项目“E:\workspace\git\StudyCpp\StudyCpp\StudyCpp.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Dm01.cpp "Dm02_构造函数.cpp" "Dm03_成员函数.cpp" "Dm04_重载运算符.cpp" "Dm05_继承中成员访问权.cpp" "Dm06_继承中指针引用.cpp" "Dm07_多态.cpp" "Dm08_调用动态库.cpp" "Dm09_父类调用子类成员函数.cpp" "Dm10_字符串之间的判断.cpp" "Dm11_string类型转int.cpp"
-         Dm11_string类型转int.cpp
-         Dm10_字符串之间的判断.cpp
-         Dm09_父类调用子类成员函数.cpp
-         Dm08_调用动态库.cpp
-         Dm07_多态.cpp
-         Dm06_继承中指针引用.cpp
-         Dm05_继承中成员访问权.cpp
-         Dm04_重载运算符.cpp
-         Dm03_成员函数.cpp
-         Dm02_构造函数.cpp
-         Dm01.cpp
-         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Dm14_集合的使用.cpp"
+         Dm14_集合的使用.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xuan\Documents\GitHub\StudyCpp\Debug\StudyCpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\xuan\Documents\GitHub\StudyCpp\Debug\StudyCpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xuan\Documents\GitHub\StudyCpp\Debug\StudyCpp.lib" /MACHINE:X86 Debug\Dm01.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace\git\StudyCpp\Debug\StudyCpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\workspace\git\StudyCpp\Debug\StudyCpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace\git\StudyCpp\Debug\StudyCpp.lib" /MACHINE:X86 Debug\Dm01.obj
          "Debug\Dm02_构造函数.obj"
          "Debug\Dm03_成员函数.obj"
          "Debug\Dm04_重载运算符.obj"
@@ -26,9 +15,16 @@
          "Debug\Dm09_父类调用子类成员函数.obj"
          "Debug\Dm10_字符串之间的判断.obj"
          "Debug\Dm11_string类型转int.obj"
-         StudyCpp.vcxproj -> C:\Users\xuan\Documents\GitHub\StudyCpp\Debug\StudyCpp.exe
-     1>已完成生成项目“C:\Users\xuan\Documents\GitHub\StudyCpp\StudyCpp\StudyCpp.vcxproj”(Rebuild 个目标)的操作。
+         "Debug\Dm12_memset的使用.obj"
+         "Debug\Dm13_win平台的LONGLONG.obj"
+         "Debug\Dm14_集合的使用.obj"
+         "Debug\Dm15_集合值的修改.obj"
+         "Debug\Dm16_获取数组长度.obj"
+         "Debug\Dm17_Switch使用.obj"
+         "Debug\Dm18_Lambda回调函数.obj"
+         StudyCpp.vcxproj -> E:\workspace\git\StudyCpp\Debug\StudyCpp.exe
+     1>已完成生成项目“E:\workspace\git\StudyCpp\StudyCpp\StudyCpp.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.52
+已用时间 00:00:00.92

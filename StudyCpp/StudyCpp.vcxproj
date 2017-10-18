@@ -20,7 +20,7 @@
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v120</PlatformToolset>
-    <CharacterSet>Unicode</CharacterSet>
+    <CharacterSet>NotSet</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -52,6 +52,8 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -87,6 +89,14 @@
     <ClCompile Include="Dm09_父类调用子类成员函数.cpp" />
     <ClCompile Include="Dm10_字符串之间的判断.cpp" />
     <ClCompile Include="Dm11_string类型转int.cpp" />
+    <ClCompile Include="Dm12_memset的使用.cpp" />
+    <ClCompile Include="Dm13_win平台的LONGLONG.cpp" />
+    <ClCompile Include="Dm14_集合的使用.cpp" />
+    <ClCompile Include="Dm15_集合值的修改.cpp" />
+    <ClCompile Include="Dm16_获取数组长度.cpp" />
+    <ClCompile Include="Dm17_Switch使用.cpp" />
+    <ClCompile Include="Dm18_Lambda回调函数.cpp" />
+    <ClCompile Include="Dm19_随机数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

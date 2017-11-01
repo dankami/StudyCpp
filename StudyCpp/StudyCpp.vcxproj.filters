@@ -72,5 +72,8 @@
     <ClCompile Include="Dm19_随机数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Dm20_Struct字节对齐.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

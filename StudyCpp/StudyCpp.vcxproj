@@ -97,6 +97,7 @@
     <ClCompile Include="Dm17_Switch使用.cpp" />
     <ClCompile Include="Dm18_Lambda回调函数.cpp" />
     <ClCompile Include="Dm19_随机数.cpp" />
+    <ClCompile Include="Dm20_Struct字节对齐.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

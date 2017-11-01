@@ -1,8 +1,9 @@
-﻿生成启动时间为 2017/1/11 19:56:41。
+﻿生成启动时间为 2017/11/1 19:24:33。
      1>项目“E:\workspace\git\StudyCpp\StudyCpp\StudyCpp.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Dm14_集合的使用.cpp"
-         Dm14_集合的使用.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Dm20_Struct字节对齐.cpp"
+         Dm20_Struct字节对齐.cpp
+     1>e:\workspace\git\studycpp\studycpp\dm20_struct字节对齐.cpp(12): warning C4101: “s1”: 未引用的局部变量
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace\git\StudyCpp\Debug\StudyCpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\workspace\git\StudyCpp\Debug\StudyCpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace\git\StudyCpp\Debug\StudyCpp.lib" /MACHINE:X86 Debug\Dm01.obj
          "Debug\Dm02_构造函数.obj"
@@ -22,9 +23,11 @@
          "Debug\Dm16_获取数组长度.obj"
          "Debug\Dm17_Switch使用.obj"
          "Debug\Dm18_Lambda回调函数.obj"
+         "Debug\Dm19_随机数.obj"
+         "Debug\Dm20_Struct字节对齐.obj"
          StudyCpp.vcxproj -> E:\workspace\git\StudyCpp\Debug\StudyCpp.exe
      1>已完成生成项目“E:\workspace\git\StudyCpp\StudyCpp\StudyCpp.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.92
+已用时间 00:00:00.48

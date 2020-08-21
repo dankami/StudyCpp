@@ -10,7 +10,6 @@ void printA(int a[])
 
 }
 
-void printDeque()
 
 int main()
 {

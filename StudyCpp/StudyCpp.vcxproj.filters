@@ -42,9 +42,6 @@
     <ClCompile Include="Dm11_string类型转int.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Dm01.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Dm02_构造函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -193,6 +190,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Dm00_传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dm01_指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dm24_定义宏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

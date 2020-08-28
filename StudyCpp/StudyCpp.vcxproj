@@ -104,6 +104,7 @@
     <ClCompile Include="Dm22_集成lua.cpp" />
     <ClCompile Include="Dm23_c调用lua.cpp" />
     <ClCompile Include="Dm24_定义宏.cpp" />
+    <ClCompile Include="Dm25_宽窄字符.cpp" />
     <ClCompile Include="LuaEngine.cpp" />
     <ClCompile Include="lua\lapi.c" />
     <ClCompile Include="lua\lauxlib.c" />

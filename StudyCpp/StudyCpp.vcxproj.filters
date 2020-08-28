@@ -198,6 +198,9 @@
     <ClCompile Include="Dm24_定义宏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Dm25_宽窄字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lua\ltable.h">
